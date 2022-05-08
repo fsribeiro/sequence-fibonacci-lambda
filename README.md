@@ -1,4 +1,4 @@
-# Ramper - Micro-serviço de chat
+# Sequence-fibonacci-lambda
 ​
 Exemplo de funções lambdas invoke local calculando o termo total de uma sequência fibonacci e exibição da sequência fibonacci de um número;
   * Calcula o termo total da sequência fibonacci
